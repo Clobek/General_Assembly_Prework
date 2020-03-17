@@ -1,0 +1,1 @@
+Introduction to JS had us download another version of the same memory game and then save the folder as memory-game instead of memory_game. Future updates will be applied to memory-game as I believe this was an error.
